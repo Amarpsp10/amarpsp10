@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 ## Github Stats
 <!--
-![Amar Preet's GitHub stats](https://github-readme-stats.vercel.app/api?username=amarpsp10&show_icons=true&count_private=true&theme=radical)
+**![Amar Preet's GitHub stats](https://github-readme-stats.vercel.app/api?username=amarpsp10&show_icons=true&count_private=true&theme=radical)-->
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amarpsp10&count_private=true&theme=radical)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amarpsp10&count_private=true&theme=radical)
 
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarpsp10&langs_count=8&theme=radical" />
-</a>
+   <a href="">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarpsp10&langs_count=8&theme=radical" />
+   </a>
   
   
