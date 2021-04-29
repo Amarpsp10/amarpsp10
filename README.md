@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi 👋 <img src="https://raw.githubusercontent.com/amarpsp10/amarpsp10/main/assests/gif/namegif.gif" width="150px"> here!!
 
 <!--
 **Amarpsp10/amarpsp10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,3 +25,4 @@ Here are some ideas to get you started:
    </a>
   
   
+ 
