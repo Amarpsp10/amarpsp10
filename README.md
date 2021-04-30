@@ -3,7 +3,7 @@
 
 ## 📫 How to reach me :-
 <p>I'm most active on LinkedIn, feel free to connect and you can send me an email as well!</p>
-<p align="left"> <a width="40px" href="https://www.linkedin.com/in/amar-preet-singh/" target="_blank"><img src="https://raw.githubusercontent.com/amarpsp10/amarpsp10/main/assests/icons/linkedin.png" width="35px" ></a> <a href="https://amarpsp10@gmail.com" margin="4px" target="_blank"><img src="https://raw.githubusercontent.com/amarpsp10/amarpsp10/main/assests/icons/gmail.png" width="35px" height="40px" ></a> <a href="https://twitter.com/Amarpsp10" target="_blank"><img src="https://raw.githubusercontent.com/amarpsp10/amarpsp10/main/assests/icons/twitter.png" width="35px" ></a></p>
+<p align="left"> <a width="40px" href="https://www.linkedin.com/in/amar-preet-singh/" target="_blank"><img src="https://raw.githubusercontent.com/amarpsp10/amarpsp10/main/assests/icons/linkedin.png" width="35px" ></a> <a href="https://amarpsp10@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/amarpsp10/amarpsp10/main/assests/icons/gmail.png" width="35px" height="40px" ></a> <a href="https://twitter.com/Amarpsp10" target="_blank"><img src="https://raw.githubusercontent.com/amarpsp10/amarpsp10/main/assests/icons/twitter.png" width="35px" ></a></p>
 <!--
 **Amarpsp10/amarpsp10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
