@@ -15,7 +15,8 @@
                    <a><img src="https://raw.githubusercontent.com/amarpsp10/amarpsp10/main/assests/icons/jsx.png" width="40px"></a>
                    <a><img src="https://raw.githubusercontent.com/amarpsp10/amarpsp10/main/assests/icons/react.png" width="40px"></a>
                    <a><img src="https://raw.githubusercontent.com/amarpsp10/amarpsp10/main/assests/icons/django.png" width="40px"></a>
-                   <a><img src="https://raw.githubusercontent.com/amarpsp10/amarpsp10/main/assests/icons/visual-studio.png" width="40px"></a></p>
+                   <a><img src="https://raw.githubusercontent.com/amarpsp10/amarpsp10/main/assests/icons/visual-studio.png" width="40px"></a>
+                   <a><img src="https://raw.githubusercontent.com/amarpsp10/amarpsp10/main/assests/icons/python1.png" width="40px"></a></p>
 <!--
 **Amarpsp10/amarpsp10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
