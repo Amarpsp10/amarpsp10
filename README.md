@@ -12,6 +12,7 @@
                    <a><img src="https://raw.githubusercontent.com/amarpsp10/amarpsp10/main/assests/icons/html.png" width="40px"></a>
                    <a><img src="https://raw.githubusercontent.com/amarpsp10/amarpsp10/main/assests/icons/css-3.png" width="40px"></a>
                    <a><img src="https://raw.githubusercontent.com/amarpsp10/amarpsp10/main/assests/icons/javascript.png" width="40px"></a>
+                   <a><img src="https://raw.githubusercontent.com/amarpsp10/amarpsp10/main/assests/icons/typescript.svg" width="40px" height="40px"></a>
                    <a><img src="https://raw.githubusercontent.com/amarpsp10/amarpsp10/main/assests/icons/jsx.png" width="40px"></a>
                    <a><img src="https://raw.githubusercontent.com/amarpsp10/amarpsp10/main/assests/icons/react.png" width="40px"></a>
                    <a><img src="https://raw.githubusercontent.com/amarpsp10/amarpsp10/main/assests/icons/django.png" width="40px"></a>
