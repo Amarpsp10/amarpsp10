@@ -7,8 +7,8 @@
 
 ## 👨‍💻Programming languages and Frameworks:-
 <p>Mostly I use <b>Java Language</b> for problem solving and Well versed in Html, CSS, JSX And worked with React, React-native with Django frameworks.<br>
-  --currently learning <b>DRF, Firebase and maps api</b></p>
-<p align="center"> <a><img src="https://raw.githubusercontent.com/amarpsp10/amarpsp10/main/assests/icons/java.png" width="40px"></a>
+  --currently learning <b>Redux and Firebase</b></p>
+<p align="center"> <a><img src="https://raw.githubusercontent.com/amarpsp10/amarpsp10/main/assests/icons/java.png" width="45px"></a>
                    <a><img src="https://raw.githubusercontent.com/amarpsp10/amarpsp10/main/assests/icons/html.png" width="40px"></a>
                    <a><img src="https://raw.githubusercontent.com/amarpsp10/amarpsp10/main/assests/icons/css-3.png" width="40px"></a>
                    <a><img src="https://raw.githubusercontent.com/amarpsp10/amarpsp10/main/assests/icons/javascript.png" width="40px"></a>
@@ -18,7 +18,8 @@
                    <a><img src="https://raw.githubusercontent.com/amarpsp10/amarpsp10/main/assests/icons/visual-studio.png" width="40px"></a>
                    <a><img src="https://raw.githubusercontent.com/amarpsp10/amarpsp10/main/assests/icons/python1.png" width="40px"></a>
                    <a><img src="https://raw.githubusercontent.com/amarpsp10/amarpsp10/main/assests/icons/drf1.png" width="60px"></a>
-                   <a><img src="https://raw.githubusercontent.com/amarpsp10/amarpsp10/main/assests/icons/firebase.png" width="35px"></a></p>
+                   <a><img src="https://raw.githubusercontent.com/amarpsp10/amarpsp10/main/assests/icons/firebase.png" width="35px"></a>
+                   <a><img src="https://raw.githubusercontent.com/amarpsp10/amarpsp10/main/assests/icons/redux.png" width="45px"></a></p>
 <!--
 **Amarpsp10/amarpsp10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
