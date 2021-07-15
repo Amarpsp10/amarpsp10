@@ -6,8 +6,7 @@
 <p align="left"> <a width="40px" href="https://www.linkedin.com/in/amar-preet-singh/" target="_blank"><img src="https://raw.githubusercontent.com/amarpsp10/amarpsp10/main/assests/icons/linkedin.png" width="35px" ></a> <a href="mailto:amarpsp10@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/amarpsp10/amarpsp10/main/assests/icons/gmail.png" width="35px" height="40px" ></a> <a href="https://twitter.com/Amarpsp10" target="_blank"><img src="https://raw.githubusercontent.com/amarpsp10/amarpsp10/main/assests/icons/twitter.png" width="35px" ></a></p>
 
 ## 👨‍💻Programming languages and Frameworks:-
-<p>Mostly I use <b>Java Language</b> for problem solving and Well versed in Html, CSS, JSX And worked with React, React-native with Django frameworks.<br>
-  --currently learning <b>Redux and Firebase</b></p>
+
 <p align="center"> <a><img src="https://raw.githubusercontent.com/amarpsp10/amarpsp10/main/assests/icons/java.png" width="45px"></a>
                    <a><img src="https://raw.githubusercontent.com/amarpsp10/amarpsp10/main/assests/icons/html.png" width="40px"></a>
                    <a><img src="https://raw.githubusercontent.com/amarpsp10/amarpsp10/main/assests/icons/css-3.png" width="40px"></a>
