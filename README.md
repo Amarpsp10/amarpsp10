@@ -1,10 +1,10 @@
-<h1 align="center"> Hi 👋 <img src="https://raw.githubusercontent.com/amarpsp10/amarpsp10/main/assests/gif/namegif.gif" width="150px"> here!! </h1>
+<!-- <h1 align="center"> Hi 👋 <img src="https://raw.githubusercontent.com/amarpsp10/amarpsp10/main/assests/gif/namegif.gif" width="150px"> here!! </h1>
 <p align="center">Always looking forward to work on new projects and ideas ! <br> an enthusiast for learning new technologies and creating Mobile and Web Applications</p>
-
+ -->
 <!-- ## 📫 How to reach me :-
 <p>I'm most active on LinkedIn, feel free to connect and you can send me an email as well!</p>
 <p align="left"> <a width="40px" href="https://www.linkedin.com/in/amar-preet-singh/" target="_blank"><img src="https://raw.githubusercontent.com/amarpsp10/amarpsp10/main/assests/icons/linkedin.png" width="35px" ></a> <a href="mailto:amarpsp10@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/amarpsp10/amarpsp10/main/assests/icons/gmail.png" width="35px" height="40px" ></a> <a href="https://twitter.com/Amarpsp10" target="_blank"><img src="https://raw.githubusercontent.com/amarpsp10/amarpsp10/main/assests/icons/twitter.png" width="35px" ></a></p> -->
-
+<!-- 
 ## 👨‍💻Programming languages and Frameworks:-
 
 <p align="center"> <a><img src="https://raw.githubusercontent.com/amarpsp10/amarpsp10/main/assests/icons/java.png" width="45px"></a>
@@ -20,7 +20,7 @@
                    <a><img src="https://raw.githubusercontent.com/amarpsp10/amarpsp10/main/assests/icons/drf1.png" width="60px"></a>
                    <a><img src="https://raw.githubusercontent.com/amarpsp10/amarpsp10/main/assests/icons/firebase.png" width="35px"></a>
                    <a><img src="https://raw.githubusercontent.com/amarpsp10/amarpsp10/main/assests/icons/app-script.png" width="55px"></a>
-                   <a><img src="https://raw.githubusercontent.com/amarpsp10/amarpsp10/main/assests/icons/redux.png" width="45px"></a></p>
+                   <a><img src="https://raw.githubusercontent.com/amarpsp10/amarpsp10/main/assests/icons/redux.png" width="45px"></a></p> -->
 <!--
 **Amarpsp10/amarpsp10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
